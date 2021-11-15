@@ -58,4 +58,5 @@ Deixarei uma Excel nos arquivos para melhor Entendimento.
 https://www.youtube.com/channel/UCMxclLWDMgPtQ0ELELWP8OA
 # Link's
 https://github.com/sera-pangya
+
 https://docs.microsoft.com/pt-br/powerapps/maker/canvas-apps/functions/function-trig
