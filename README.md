@@ -52,6 +52,8 @@ Nesse ponto temos 2 resultados possiveis se o movimento for para direita a opera
 
 Deixarei uma Excel nos arquivos para melhor Entendimento.
 
+# Angulo
+
 # Quebra Bola
 
 # Youtube
