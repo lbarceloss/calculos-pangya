@@ -37,8 +37,25 @@ Então:
 
 - Porque dividir por 1,5 e depois 0,21657? 0,21657 e o valor de PB no PangYa e 1,5 se voce mexe com calc excel sabe muito bem que isso é a escala de Yards do Pangya.
 
+# PB Automatico
+Vamos entender como tirar PB automatico no Pangya, Primeiro precisamos do Grid do Personagem para esse Calculo.
+Pegamos o valor em PB e multiplicamos por 0,21657.
+
+Logo:
+
+![image](https://user-images.githubusercontent.com/82356894/141713365-6948173d-807e-4b3e-9ea3-5a24ad8d929a.png)
+- ATAN? Simplemente a tangente inversa.
+
+Nesse ponto temos 2 resultados possiveis se o movimento for para direita a operação devera ser Subtração se for para esquerda a operação sera Adição.
+
+![image](https://user-images.githubusercontent.com/82356894/141713744-a90e10b5-530f-4162-b6c6-e9e501a2232e.png)
+
+Deixarei uma Excel nos arquivos para melhor Entendimento.
+
 # Quebra Bola
 
 # Youtube
 https://www.youtube.com/channel/UCMxclLWDMgPtQ0ELELWP8OA
 # Link's
+https://github.com/sera-pangya
+https://docs.microsoft.com/pt-br/powerapps/maker/canvas-apps/functions/function-trig
