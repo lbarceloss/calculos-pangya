@@ -1,5 +1,5 @@
 # Distancia
-Vamos entender como é feito o calculo da Distancia no PangYa, Primeiro devemos saber o que é a distancia dentro do Pangya? - E simples é a diferença entre a BOLA e o HOLE!
+Vamos entender como é feito o calculo da Distancia no PangYa, Primeiro devemos saber o que é a distancia dentro do Pangya? - É simples é a diferença entre a BOLA e o HOLE!
 - Tabom Leozão isso ai qualquer um sabe! Calma idiota deixa eu falar.
 A Bola e o hole são objetos posicionados tridimensionalmente no MAPA o que isso significa? Significa varias coisas o interesante saber que ele possuem um (X,Y,Z).
 - Tabom Leozão mais idai? O FDP eu ja falei deixa eu falar.
@@ -11,9 +11,9 @@ Então se nos temos o (X,Y,Z) do Hole e da Bola é facil calcular a distancia n�
 
 - Leozão seu troxa e o eixo Z?, eu fiz e deu errado, tu é burro? Caralho mano voce nao entende mesmo né deixa eu acabar de explicar depois voce pergunta.
 
-O Eixo Y no caso seria para calcular a Altura do hole utilizando basicamente a mesma formula acima, só com o "Delta X", não deu certo ai porque voce não multiplicou a Distancia por 0.3125
+O Eixo Y no caso seria para calcular a altura do hole utilizando basicamente a mesma formula acima, somente com o "Delta X". Não deu certo ai porque voce não multiplicou a Distancia por 0.3125
 
-Mas porque multiplicar a distancia por 0.3125? Tu nao fica me enterropendo o tempo todo Resolver ae agora o FODÃO!
+Mas porque multiplicar a distancia por 0.3125? Tu nao fica me enterropendo o tempo todo, resolve ae agora FODÃO!
 
 # Power Bar
 Vamos entender como é feito o Calculo do Power Bar no Pangya, Primeiro vamos precisar pegar o Angulo da Camera em relação a Bola e o Hole.
