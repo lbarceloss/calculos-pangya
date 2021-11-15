@@ -20,6 +20,8 @@ Vamos entender como é feito o Calculo do Power Bar no Pangya, Primeiro vamos pr
 
 ![image](https://user-images.githubusercontent.com/82356894/141709460-47943b12-1d82-4af7-b24d-f94d2c34e9c6.png)
 
+- ATAN2? Cara você ta foda hoje em rapaz, nada mais nada menos jovem mancebo que o angulo entre -π e π
+
 Agora precisamos do Grid da Mira do Personagem
 - Pera o que é Grid, o que é mira o que é Personagem? Calma isso merece um video de 10 minutinhos explicando tudo isso.
 
