@@ -28,8 +28,8 @@ Agora precisamos do Grid da Mira do Personagem
 Com isso em maõs fica facil calcular o PB, temos todo o necessario.
 
 ![image](https://user-images.githubusercontent.com/82356894/141711818-9fd306d1-a90c-45ae-b8bb-74ab9e7cac99.png)
-- ABS? Valor Absoluto amigo basciamente seria multiplicar um numero -1 sempre ele for negativo no caso vou ter o retorno do numero sempre positivo exemplo -2 vira 2 -4 vira 4.
-- %? Mod Amigo basicamente vai retornar o Resta da divisão, arredondando para direção retrograda no caso para 0.
+- ABS? Valor Absoluto amigo basciamente seria multiplicar um numero por -1 sempre que ele for negativo no caso vou ter o retorno do numero sempre positivo exemplo -2 vira 2 -4 vira 4.
+- %? Mod Amigo basicamente vai retornar o resto da divisão, arredondando para direção retrograda no caso para 0.
 
 Então:
 
