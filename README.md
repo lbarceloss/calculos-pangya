@@ -38,3 +38,7 @@ Então:
 - Porque dividir por 1,5 e depois 0,21657? 0,21657 e o valor de PB no PangYa e 1,5 se voce mexe com calc excel sabe muito bem que isso é a escala de Yards do Pangya.
 
 # Quebra Bola
+
+# Youtube
+
+# Link's
