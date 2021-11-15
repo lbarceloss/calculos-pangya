@@ -13,7 +13,7 @@ Então se nos temos o (X,Y,Z) do Hole e da Bola é facil calcular a distancia n�
 
 O Eixo Y no caso seria para calcular a altura do hole utilizando basicamente a mesma formula acima, somente com o "Delta X". Não deu certo ai porque voce não multiplicou a Distancia por 0.3125
 
-Mas porque multiplicar a distancia por 0.3125? Tu nao fica me enterropendo o tempo todo, resolve ae agora FODÃO!
+Mas porque multiplicar a distancia por 0.3125? Tu nao fica me interropendo o tempo todo, resolve agora FODÃO!
 
 # Power Bar
 Vamos entender como é feito o Calculo do Power Bar no Pangya, Primeiro vamos precisar pegar o Angulo da Camera em relação a Bola e o Hole.
@@ -23,12 +23,12 @@ Vamos entender como é feito o Calculo do Power Bar no Pangya, Primeiro vamos pr
 - ATAN2? Cara você ta foda hoje, nada mais nada menos jovem mancebo que o angulo entre -π e π
 
 Agora precisamos do Grid da Mira do Personagem
-- Pera o que é Grid, o que é mira o que é Personagem? Calma isso merece um video de 10 minutinhos explicando tudo isso.
+- Pera o que é Grid, o que é mira o que é Personagem? Calma isso merece um video de 10 minutinhos explicando.
 
-Com isso em maõs fica facil calcular o PB temos todo o necessario para tal.
+Com isso em maõs fica facil calcular o PB, temos todo o necessario.
 
 ![image](https://user-images.githubusercontent.com/82356894/141711818-9fd306d1-a90c-45ae-b8bb-74ab9e7cac99.png)
-- ABS? Valor Absoluto amigo basciamente seria multiplicar um numero * -1 sempre ele for negativo no caso vou ter o retorno do numero sempre positivo exemplo -2 vira 2 -4 vira 4.
+- ABS? Valor Absoluto amigo basciamente seria multiplicar um numero -1 sempre ele for negativo no caso vou ter o retorno do numero sempre positivo exemplo -2 vira 2 -4 vira 4.
 - %? Mod Amigo basicamente vai retornar o Resta da divisão, arredondando para direção retrograda no caso para 0.
 
 Então:
