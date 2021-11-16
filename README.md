@@ -53,7 +53,14 @@ Nesse ponto temos 2 resultados possiveis se o movimento for para direita a opera
 Deixarei uma Excel nos arquivos para melhor Entendimento.
 
 # Angulo
+Vamos entender como calcular o angulo no Pangya, Para o calculo do angulo existe mais de 1 forma, Aqui vou ensinar a maneira mais facil existe 2 variaveis que recebe o Cosseno do Angulo e o Seno do angulo, Bem com essas 2 informações fica facil né? é só fazer o inverso!
 
+![image](https://user-images.githubusercontent.com/82356894/141889462-dd354dbb-6efe-4357-bde5-afc08147af5b.png)
+
+Qualquer uma das formulas acima vai te retorna o Angulo.
+
+- Asin? Contradomínio de seno.
+- Acos: Contradomínio de cosseno.
 # Quebra Bola
 
 # Youtube
