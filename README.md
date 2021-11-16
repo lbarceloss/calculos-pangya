@@ -15,7 +15,7 @@ O Eixo Y no caso seria para calcular a altura do hole utilizando basicamente a m
 
 Mas porque multiplicar a distancia por 0.3125? Tu nao fica me interropendo o tempo todo, resolve agora FODÃO!
 
-Conversão de escala, agora para de me interromper e deixa eu falar tudo, se não vou deixar voce no vácuo!
+- Conversão de escala, agora para de me interromper e deixa eu falar tudo, se não vou deixar voce no vácuo!
 
 # Power Bar
 Vamos entender como é feito o Calculo do Power Bar no Pangya, Primeiro vamos precisar pegar o Angulo da Camera em relação a Bola e o Hole.
