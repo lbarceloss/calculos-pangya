@@ -60,7 +60,7 @@ Vamos entender como calcular o angulo no Pangya, Para o calculo do angulo existe
 Qualquer uma das formulas acima vai te retorna o Angulo.
 
 - Asin? Contradomínio de seno.
-- Acos: Contradomínio de cosseno.
+- Acos? Contradomínio de cosseno.
 # Quebra Bola
 
 # Youtube
