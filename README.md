@@ -1,7 +1,7 @@
 # Distancia
 Vamos entender como é feito o calculo da Distancia no PangYa, Primeiro devemos saber o que é a distancia dentro do Pangya? - É simples é a diferença entre a BOLA e o HOLE!
 - Tabom Leozão isso ai qualquer um sabe! Calma idiota deixa eu falar.
-A Bola e o hole são objetos posicionados tridimensionalmente no MAPA o que isso significa? Significa varias coisas o interesante saber que eles possuem um (X,Y,Z).
+A Bola e o hole são objetos posicionados tridimensionalmente no MAPA o que isso significa? Significa varias coisas o mais importante para nós é saber que eles possuem um (X,Y,Z).
 - Tabom Leozão mais idai? O FDP eu ja falei deixa eu falar.
 Segundo a formula matematica o calculo da distancia entre 2 pontos se dá pela seguinte formula:
 
