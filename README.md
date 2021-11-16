@@ -9,7 +9,7 @@ Segundo a formula matematica o calculo da distancia entre 2 pontos se dá pela s
 
 Então se nos temos o (X,Y,Z) do Hole e da Bola é facil calcular a distancia não é mesmo?
 
-- Leozão seu troxa e o eixo Z?, eu fiz e deu errado, tu é burro? Caralho mano voce nao entende mesmo né deixa eu acabar de explicar depois voce pergunta.
+- Leozão seu troxa e o eixo Z?, eu fiz aqui e deu errado, tu é burro? Caralho mano voce nao entende mesmo né deixa eu acabar de explicar depois voce pergunta.
 
 O Eixo Y no caso seria para calcular a altura do hole utilizando basicamente a mesma formula acima, somente com o "Delta X". Não deu certo ai porque voce não multiplicou a Distancia por 0.3125
 
