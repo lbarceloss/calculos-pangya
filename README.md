@@ -64,7 +64,7 @@ Qualquer uma das formulas acima vai te retorna o Angulo.
 - Asin? Contradomínio de seno.
 - Acos? Contradomínio de cosseno.
 # Quebra Bola
-
+https://github.com/sera-pangya/pangya-guides-br/blob/main/teoria-quebras/theory.md
 # Youtube
 https://www.youtube.com/channel/UCMxclLWDMgPtQ0ELELWP8OA
 # Link's
